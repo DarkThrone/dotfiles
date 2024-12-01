@@ -1,0 +1,6 @@
+[submodule "dot-config"]
+	path = dot-config
+	url = git@github.com:DarkThrone/config.git
+[submodule "dot-zim"]
+	path = dot-zim
+	url = git@github.com:DarkThrone/dot-zim.git
